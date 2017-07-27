@@ -1,4 +1,3 @@
 http://zookeeper.apache.org/releases.html
 https://www.apache.org/dyn/closer.cgi?path=/kafka/0.10.2.0/kafka_2.11-0.10.2.0.tgz
-https://dzone.com/articles/running-apache-kafka-on-windows-os
-http://javasampleapproach.com/java-integration/start-apache-kafka-----**
+
